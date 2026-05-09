@@ -1,0 +1,7 @@
+pwd
+ls
+mkdir semana2
+cd semana
+touch preguntas-semana2.txt
+touch comandos-usados.txt
+touch reflexion-semana2.txt
